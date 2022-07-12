@@ -50,6 +50,8 @@
 # print("Fern and Kuz each pay " + str(RoomPplTotalAmm/Rooms))
 # print("Everyone else each pay str " + str(BedPplTotalAmm/Beds))
 
+#test
+
 
 
 
